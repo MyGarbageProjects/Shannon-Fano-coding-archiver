@@ -1,2 +1,2 @@
-# Shannon-Fano-coding-archiver
+# Shannon-Fano-coding-archiver(2016 год. Первая курсовая работа)
 Курсовая работа на тему "Архиватор по Шеннона-Фано"
